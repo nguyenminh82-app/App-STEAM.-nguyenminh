@@ -1,0 +1,6 @@
+{
+  "name": "Thiết kế hoạt động STEAM 5E-EDP",
+  "description": "Hệ thống hỗ trợ giáo viên mầm non thiết kế, chỉnh sửa và quản lý giáo án STEAM theo mô hình 5E và quy trình thiết kế kỹ thuật (EDP) với trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
